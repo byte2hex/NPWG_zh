@@ -1,4 +1,7 @@
-## [在线阅读《Network programming with Go》](https://books.studygolang.com/NPWG_zh/)
+## [中英在线阅读《Network programming with Go》](https://books.studygolang.com/NPWG_zh/)
+
+
+## [英文原版阅读《Network programming with Go》](https://jan.newmarch.name/go/)
 
 
 
